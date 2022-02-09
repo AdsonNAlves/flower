@@ -1,1 +1,2 @@
-# flower
+# Flower
+Federated Learning Framework 
